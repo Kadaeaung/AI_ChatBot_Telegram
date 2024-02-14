@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "thematic-acumen-405006",
+  "private_key_id": "6cc2524b3f88ef876c0b33ed27c1efa2b2d72c7d",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEugIBADANBgkqhkiG9w0BAQEFAASCBKQwggSgAgEAAoIBAQDGEB6R6hKPO8bK\nQWOSMjZ81+/Hk3rGyJCpskTFbSZ2Ker+jEZH3EhWhamy9jQvQfE3+exLAScAFZS2\nM86he1vstCyF7TLmIGXEl3HQNkuQHLAMfrinZmVnbTeKH6/k2QXMs1UGqCEcyr6x\nzdI7hxkuVcHRtsR9GJbpNGg0hr0Kovn2j8vk5Je9RIThmeTRyAfRCk3+MCutZLgr\n31TdBfav79ig1uRYNS8Qq3p3ePRNfJJt/77XfbXVyNSNevHpxbDFuWmu6Raqtfk9\nFHyT8z8LT084onKxFaVxko48U8juu4AbxyfWWgpSAiw0cnfAu359qpxxNri0+yQ8\nfbfvUGe1AgMBAAECgf887w3z36J3SJKY38d7QQpvZ6DKRazQtByLDyKUfiFI2mOv\nOCzY2942ApPYuK045jtUtjT3UBxVc8mAyVyLGMKlrGngRVb2YqvjA6sq2fssaTU7\nhmueHimikHdIKG4DEZIRRs7v/7bH5zlR9aZLElzhBZ2Wsy1qylCG4EgSZZpkWjT+\nnA9lv29eqQGVS/Lir2av273pe0dskOr8sEPbTxpQzdVrEb1Cc0nYSe92C4v0GKFS\nlrz+xCObOpFDuN5Yx6jWfjPcaG4wH3hJL2of5ixMuXh22Kj3erQyPW3uicaLrnDv\nK3NNo8Mm8wGW84RRFW+mJh0ZLFMOXB8XTqJRSzsCgYEA4qN2LjfWF1HhDkrsAT1g\nX5zP9qLUpRNRcVZtU28Ae4CFcYl++h8rhX9j8NFz8bEv6jA3742rGUzsWRy0dpfL\ntBh//R1MKgJeaPObjDnVSrZ6WdKKbzkOPKOTJD771KI59+eaLYOHtA6pCVW/BvFa\nsRcPgiUw8eHPlQrIiF2X+wsCgYEA37jwv2vUen/n3ohz0cW/wCe1AT6zsHELuXLd\nWj9upj1DCGhgnMTpTZisO22fQkyPnt/UfjyQ3af9NDGnpts3D+qqwY3iCq7Zm9bn\nKZyS2C1ROI/7MtiqwoXy6CMhKr3eVQZuD1u8/v98QXEbltLX4m8eIZ6T5vHufQ4g\nBMnA4D8CgYBdnACLNHrUJPidC6sRFAXDWCS5jSXhjOodswHy7S041avIam8s5kT2\nndhstkZ6dKICy6m+4zfhellAsU+EkEwN9fSfWkOEMnhGRyBfOd/0PQyqHwEY0Wsk\n9rcmyHEBsYPZ9ipDVElvwIJnHaiKOJQqAwlfyva9YXR47fxH/shwYwKBgEAkoDHh\n0qvEnFA7QymzzsRjHgxbU92Uq83h1wEXCrxy+BMjCgAonNN4oHjxdyXlGZBtkFkZ\nOFe04G3khrLaSzEvEQIpkdOKSi3aMbDGiXudkpnq/hSX9m2LRhe0ar/8bBBopYmV\nvdxGl/OTYFuf2/G59iOhebpPRxdnw1pcFga1AoGAafg0MImX9iYiUpuGdyFQ32dW\nWKJzL88lRzM/YCJjbLEVhwL+Ir05+zKwOzexNVQ+cpkzXhbvreUMNR3mDwEs8R8i\n7jDquPX9+njRzA0scOjGz6AwzBZwjrsbBOGsx4umpvFy/o5Eb+mgbA6sx/A64xWl\ngyTMhuf57GIpWlqIeFQ=\n-----END PRIVATE KEY-----\n",
+  "client_email": "chat-api@thematic-acumen-405006.iam.gserviceaccount.com",
+  "client_id": "106388790387730972986",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/chat-api%40thematic-acumen-405006.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
