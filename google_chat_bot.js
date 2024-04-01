@@ -5,7 +5,7 @@ const path = require('path');
 const serviceAccountKeyPath = path.join(__dirname, 'ethereal-link-2.json');
 
 // Set your Google Chat API key
-const googleChatApiKey = 'AIzaSyDW6MrLrdJS0M8-JGP36jG45EJKnHQIv7Q';
+const googleChatApiKey = '';
 
 const auth = new google.auth.GoogleAuth({
   keyFile: serviceAccountKeyPath,
