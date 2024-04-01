@@ -2,10 +2,10 @@ const axios = require('axios');
 const { Telegraf } = require('telegraf');
 
 // Set your Goose AI API key
-const gooseApiKey = 'sk-qdKWoDhVXsdMkSgd0gyRB2AgsX3j5ql1nJN0W8rIbKxYxvw6';
+const gooseApiKey = '';
 
 // Set your Telegram bot token
-const telegramBotToken = '6901080042:AAHyMl4D3njsdI0C0lzFFdhC95UgIysTn0k';
+const telegramBotToken = '';
 
 // Create a new Telegram bot instance
 const bot = new Telegraf(telegramBotToken);
