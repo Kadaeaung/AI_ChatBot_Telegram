@@ -1,6 +1,6 @@
 const axios = require('axios');
 
-const gooseApiKey = 'sk-qdKWoDhVXsdMkSgd0gyRB2AgsX3j5ql1nJN0W8rIbKxYxvw6';
+const gooseApiKey = '';
 
 // Set the API endpoint URL
 const apiUrl = 'https://api.goose.ai/v1/engines/gpt-j-6b/completions';
